@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 env:
-  IMAGE_NAME: myusername/spring-app
+  IMAGE_NAME: yangwoohyeon/my-web
 
 jobs:
   deploy:
